@@ -67,7 +67,7 @@ Databricks workspace.
 Python 3.7+ and PySpark installed locally.
 Steps:
 
-Clone this repository:
+Clone this repository: https://github.com/SShivani13/fraud-detection-in-financial-transaction-using-Apache-Spark./blob/main/Code.py
 bash
 Copy code
 git clone
